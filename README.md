@@ -119,10 +119,10 @@ You can find the **source code** for both the **frontend** and **backend** of th
    ```javascript
    export const API_URL = 'http://localhost:8080/api';
 
-5. Start the React development server:
+4. Start the React development server:
   `npm start`
 
-6. Access the front-end at:
+5. Access the front-end at:
    `http://localhost:3000/`.
 ---
 
